@@ -1,0 +1,39 @@
+.container {
+    align-items: center;
+    background-color: #d6eaf8;
+}
+
+.important {
+    border-radius: 10px;
+    background-color: #85c1e9;
+    padding: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    
+}
+
+.first_title , .second_title , .c1 , .c2{
+    color: darkslategray;
+    font-weight: bold;
+    text-align: center;
+    padding-bottom: 10px;
+} 
+
+.first_title {
+    padding-top: 10px;
+}
+
+.content_title {
+    padding-top: 10px;
+    color: darkslategray;
+    font-weight: bold;
+    text-align: center;
+}
+
+li {
+    font-weight: bold;
+}
+
+h4 {
+    font-weight: lighter;
+}
